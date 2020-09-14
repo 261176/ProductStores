@@ -16,3 +16,5 @@ Application Uses:
 4.	In the same manner click on currency and create type of currencies required.
 5.	Now Click on Product tab and create 12-14 products.
 6.	In Product page, there is a search functionality by which we can search the Product information by Product or Category name.
+7.  In Prouct page, aslo implemented the Paging  and pager length is 5 records. 
+8.  We can not delete the Category, units and Currency records if associated  records available in Product.
